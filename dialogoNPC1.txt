@@ -1,4 +1,5 @@
 -Bienvenido viajero
 -Somos los caballeros de la orden sagrada de la empanada de humita
 -¿Querí una empanada?
-["dialogoNPC-SI"]
+["dialogoNPC-SI","dialogoNPC-NO"]
+
